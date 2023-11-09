@@ -1,4 +1,4 @@
-Creating a well-structured README file is crucial for guiding developers, users, and contributors through your project. Below is a template for a README file for your Employee Management System project:
+Below is a template for a README file for your Employee Management System project:
 
 # Employee Management System
 
